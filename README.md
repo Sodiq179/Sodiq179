@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sodiq Babawale</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+<h3 align="center">A passionate machine learning developer from Nigeria</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sodiq179&label=Profile%20views&color=0e75b6&style=flat" alt="sodiq179" /> </p>
 
 - 💬 Ask me about **Python Programming, Machine learning, C programming**
